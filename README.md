@@ -9,4 +9,5 @@
 ### 注意事项
     如果像运行我的代码请注意修改application.properties配置文件中二维码保存的真实路径
     
-    
+### 感谢
+  部分资源和代码参考网络，特此感谢 bigroc ，原文地址：[https://www.cnblogs.com/bigroc/p/7496995.html](https://www.cnblogs.com/bigroc/p/7496995.html)    
